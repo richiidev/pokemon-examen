@@ -1,0 +1,27 @@
+@import "../../../assets/style/colores.scss";
+
+.card {
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: $rojo;
+}
+
+.header-image {
+    background-size: cover;
+}
+
+.mat-card-header{
+    background-color: $blanco;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+
+.mat-card-title{
+    text-transform: uppercase;
+    color: $negro;
+}
+
+.mat-card-subtitle{
+    color: $negro;
+}
