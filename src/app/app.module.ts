@@ -12,6 +12,10 @@ import { PokemonTablaComponent } from './components/pokemon-tabla/pokemon-tabla.
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MaterialModule } from 'src/shared/material.module';
 import { HttpClientModule } from '@angular/common/http';
+import { ProgressBarComponent } from './shared/progress-bar/progress-bar.component';
+import { ReactiveFormsModule } from '@angular/forms';
+import { PokemonListComponent } from './components/pokemon-list/pokemon-list.component';
+import { PokemonDetailComponent } from './components/pokemon-detail/pokemon-detail.component';
 
 @NgModule({
   declarations: [
@@ -19,9 +23,13 @@ import { HttpClientModule } from '@angular/common/http';
     FooterComponent,
     HeaderComponent,
     PokemonDetalleComponent,
-    PokemonTablaComponent
+    PokemonTablaComponent,
+    ProgressBarComponent,
+    PokemonListComponent,
+    PokemonDetailComponent
   ],
   imports: [
+    ReactiveFormsModule,
     BrowserModule,
     AppRoutingModule,
     ServiceWorkerModule.register('ngsw-worker.js', {
@@ -32,7 +40,7 @@ import { HttpClientModule } from '@angular/common/http';
     }),
     BrowserAnimationsModule,
     MaterialModule,
-    HttpClientModule
+    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
