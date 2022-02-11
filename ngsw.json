@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1644510901082,
+  "timestamp": 1644595152035,
   "index": "https://richiidev.github.io/pokemon-examen/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://richiidev.github.io/pokemon-examen/favicon.ico",
         "https://richiidev.github.io/pokemon-examen/index.html",
-        "https://richiidev.github.io/pokemon-examen/main.28112c0db9b7c243.js",
+        "https://richiidev.github.io/pokemon-examen/main.7b0451c094a83a41.js",
         "https://richiidev.github.io/pokemon-examen/manifest.webmanifest",
         "https://richiidev.github.io/pokemon-examen/polyfills.c448bb5e352f3501.js",
         "https://richiidev.github.io/pokemon-examen/runtime.b0a6277223f86aa4.js",
-        "https://richiidev.github.io/pokemon-examen/styles.10a3678fc5e4410f.css"
+        "https://richiidev.github.io/pokemon-examen/styles.0db968c61e0e53c2.css"
       ],
       "patterns": []
     },
@@ -56,12 +56,12 @@
     "https://richiidev.github.io/pokemon-examen/assets/image/pokemonLogo.png": "4abb63df5248e7d80861418088da5915a8634e5c",
     "https://richiidev.github.io/pokemon-examen/assets/style/colores.scss": "b1ffb33672d542501ddec064ca5def153e1b72b6",
     "https://richiidev.github.io/pokemon-examen/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://richiidev.github.io/pokemon-examen/index.html": "463c02af4eadd87644531f39db905d9d5f13b856",
-    "https://richiidev.github.io/pokemon-examen/main.28112c0db9b7c243.js": "dfba9854f2c7cdefb29678767f78f5ffa5176371",
+    "https://richiidev.github.io/pokemon-examen/index.html": "7c49b6373c5ecbc947f5396d66a8718734e78f84",
+    "https://richiidev.github.io/pokemon-examen/main.7b0451c094a83a41.js": "e787b3a5c171c94fd521a45887fb39980fec83a8",
     "https://richiidev.github.io/pokemon-examen/manifest.webmanifest": "ed8c11fc11a44f72a41475d4aabcd4f24976dc10",
     "https://richiidev.github.io/pokemon-examen/polyfills.c448bb5e352f3501.js": "7432ae7c9b0a24c3b2972fc7a4992ff8f906fe58",
     "https://richiidev.github.io/pokemon-examen/runtime.b0a6277223f86aa4.js": "5d92c565e21a9597b985dadb40a9ebc49b7696e5",
-    "https://richiidev.github.io/pokemon-examen/styles.10a3678fc5e4410f.css": "04ef123665db54ae19aa9038b8f884035e977c87"
+    "https://richiidev.github.io/pokemon-examen/styles.0db968c61e0e53c2.css": "ad7c891312b2e8bf38468b948185e796bcd922b5"
   },
   "navigationUrls": [
     {
